@@ -2,7 +2,11 @@
 
 My name is Gilles and I'm currently a 3rd year software engineering student at the university of ottawa.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NeroNemesis&theme=highcontrast&show_icons=true&count_private=true)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/gilles-djawa-650b121ba">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroNemesis&layout=compact)
 
 <!--
