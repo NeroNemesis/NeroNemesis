@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gilles and I'm currently a 3rd year software engineering student at the university of ottawa.
+My name is Gilles and I'm currently a 4th year software engineering student at the university of ottawa.
 * Currently on intership at SimpleSurvey
 * Trying to learn everything i find interesting
 * Will graduate and will be open to work in 2023/2024
