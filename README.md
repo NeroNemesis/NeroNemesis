@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gilles, I'm a Software Engineer at Simple Survey.
+My name is Gilles, I'm a Software Engineer at [Simple Survey](https://simplesurvey.com/).
 * Trying to learn everything I find interesting
 
 <div id="badges">
