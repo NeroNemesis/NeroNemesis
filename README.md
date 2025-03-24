@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-My name is Gilles and I'm currently a 4th year software engineering student at the university of ottawa.
-* Currently working as a part-time developper at SimpleSurvey
-* Trying to learn everything i find interesting
-* Will graduate and will be open to work in 2024
+My name is Gilles, I'm a Software Engineer at Simple Survey.
+* Trying to learn everything I find interesting
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/gilles-djawa-650b121ba">
